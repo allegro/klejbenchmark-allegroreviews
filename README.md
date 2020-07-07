@@ -41,17 +41,20 @@ CC BY-SA 4.0
 
 ## Citation
 If you use this dataset, please cite the following paper:
+
 ```
-@misc{rybak2020klej,
-    title={KLEJ: Comprehensive Benchmark for Polish Language Understanding},
-    author={Piotr Rybak and Robert Mroczkowski and Janusz Tracz and Ireneusz Gawlik},
-    year={2020},
-    eprint={2005.00630},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL}
+@inproceedings{rybak-etal-2020-klej,
+    title = "{KLEJ}: Comprehensive Benchmark for Polish Language Understanding",
+    author = "Rybak, Piotr and Mroczkowski, Robert and Tracz, Janusz and Gawlik, Ireneusz",
+    booktitle = "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
+    month = jul,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.acl-main.111",
+    pages = "1191--1201",
 }
 ```
-Paper is accepted at ACL 2020. We will update the BibTeX as soon as proceedings appear.
 
 ## Authors
 Dataset was created by the **Allegro Machine Learning Research** team.
